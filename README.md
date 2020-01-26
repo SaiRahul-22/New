@@ -1,2 +1,2 @@
 # New
-New rep
+New repository for git commands
